@@ -9,6 +9,9 @@ ProtoductAI株式会社 代表。Claude Code を中心に、AIネイティブな
 - [Morphy](https://apps.apple.com/jp/app/id6787635988): AI返信キーボード
 - [Peta](https://apps.apple.com/jp/app/id6785735449): きらめくシール帳
 - [Fracta](https://apps.apple.com/jp/app/id6759871241): タスク管理
+- [huuhuu](https://apps.apple.com/jp/app/id6755253016): 大学生のための情報・コミュニティアプリ
+- [Neoki](https://apps.apple.com/jp/app/id6758270119): 寝起き写真で朝を楽しくするアラーム＆写真SNS
+- [Lore](https://apps.apple.com/jp/app/id6809110055): AIから届いた情報を読んで・整理して・覚える知識ノート
 
 **Tools**
 - [BuddyOS](https://github.com/shinichiro-uno/BuddyOS-dist): iPhone から Claude Code を操作・監視する
