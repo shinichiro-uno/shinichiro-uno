@@ -15,4 +15,4 @@ ProtoductAI株式会社 代表。Claude Code を中心に、AIネイティブな
 - [rehearse-bundle](https://github.com/shinichiro-uno/rehearse-bundle): 発表・面接の練習を録画して AI エージェントに渡す
 - [codex-mic-remote](https://github.com/shinichiro-uno/codex-mic-remote): Codex Voice 用の LAN リモート（macOS）
 
-**Links**: [protoductai.com](https://protoductai.com) · [LinkedIn](https://www.linkedin.com/in/%E6%85%8E%E4%B8%80%E9%83%8E-%E5%AE%87%E9%87%8E-657916315) · [X @protoduct_ai](https://x.com/protoduct_ai)
+**Links**: [protoductai.com](https://protoductai.com) · [LinkedIn](https://www.linkedin.com/in/shinichirouno) · [X @protoduct_ai](https://x.com/protoduct_ai)
