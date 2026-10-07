@@ -26,5 +26,6 @@ ProtoductAI株式会社 代表。Claude Code を中心に、AIネイティブな
 
 **Awards**
 - **TechBizコンテスト2026 技術部門 優秀賞**（LiFA: Library for Agents）- 2026
+- **公共交通オープンデータチャレンジ ProjectLINKS賞** - 2026
 
 **Links**: [protoductai.com](https://protoductai.com) · [LinkedIn](https://www.linkedin.com/in/shinichirouno) · [X @protoduct_ai](https://x.com/protoduct_ai)
